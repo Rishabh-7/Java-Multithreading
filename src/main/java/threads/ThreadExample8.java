@@ -1,3 +1,5 @@
+package main.java.threads;
+
 public class ThreadExample8 {
     public static class StoppableRunnable implements Runnable {
         private boolean stopRequested = false;

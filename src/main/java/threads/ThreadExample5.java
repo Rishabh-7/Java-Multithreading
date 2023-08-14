@@ -1,3 +1,5 @@
+package main.java.threads;
+
 import com.sun.security.jgss.GSSUtil;
 
 public class ThreadExample5 {

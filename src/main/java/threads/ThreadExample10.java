@@ -1,3 +1,4 @@
+package main.java.threads;
 
 // join thread example: wait for another thread to finish
 public class ThreadExample10 {

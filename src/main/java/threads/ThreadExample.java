@@ -1,3 +1,5 @@
+package main.java.threads;
+
 import java.io.PrintStream;
 
 public class ThreadExample {

@@ -1,3 +1,5 @@
+package main.java.threads;
+
 import java.sql.SQLOutput;
 
 public class ThreadExample3 {

@@ -1,3 +1,5 @@
+package main.java.threads;
+
 public class VirtualThreadExample {
     public static void sleep(long millis) {
         try {

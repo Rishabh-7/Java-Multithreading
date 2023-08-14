@@ -1,3 +1,5 @@
+package main.java.threads;
+
 public class ThreadExample4 {
     public static void main(String[] args) {
         Runnable runnable = new Runnable() {

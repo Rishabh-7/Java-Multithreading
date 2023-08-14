@@ -1,3 +1,5 @@
+package main.java.threads;
+
 public class ThreadExample2 {
     public static class MyThread extends Thread {
         public void run() {
